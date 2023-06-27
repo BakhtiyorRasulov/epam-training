@@ -1,0 +1,11 @@
+{
+  "name": "intro-practical",
+  "version": "1.0.0",
+  "description": "workdone of practical assessment at the end of intro section (stage 1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error, no testing included:)\" && exit 1"
+  },
+  "author": "bakhtiyor",
+  "license": "ISC"
+}

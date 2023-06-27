@@ -1,0 +1,4 @@
+node.npm install -g n
+node.npm init
+sudo node.npm install -g fs-extra
+sudo node.npm install -g fs-extra --save-dev
